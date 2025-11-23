@@ -3,6 +3,7 @@
 *.lock
 *.log
 *.env
+pubspec.lock
 *.pyc
 *.swp
 .DS_Store
